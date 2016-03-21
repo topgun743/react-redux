@@ -1,4 +1,5 @@
-import { PropTypes } from 'react'
+//import { PropTypes } from 'react'
+var PropTypes = React.PropTypes;
 
 export default PropTypes.shape({
   subscribe: PropTypes.func.isRequired,

@@ -1,4 +1,8 @@
-import { Component, PropTypes, Children } from 'react'
+//import { Component, PropTypes, Children } from 'react'
+var Component = React.Component;
+var PropTypes = React.PropTypes;
+var Children = React.Children;
+
 import storeShape from '../utils/storeShape'
 
 let didWarnAboutReceivingStore = false

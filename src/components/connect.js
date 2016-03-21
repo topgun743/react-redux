@@ -1,4 +1,7 @@
-import { Component, createElement } from 'react'
+//import { Component, createElement } from 'react'
+var Component = React.Component;
+var createElement = React.createElement;
+
 import storeShape from '../utils/storeShape'
 import shallowEqual from '../utils/shallowEqual'
 import wrapActionCreators from '../utils/wrapActionCreators'

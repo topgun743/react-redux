@@ -2,19 +2,16 @@ React Redux
 =========================
 
 Official React bindings for [Redux](https://github.com/reactjs/redux).  
-Performant and flexible.
+Performant and flexible. React-Redux version 4.4.1
 
-[![build status](https://img.shields.io/travis/reactjs/react-redux/master.svg?style=flat-square)](https://travis-ci.org/reactjs/react-redux) [![npm version](https://img.shields.io/npm/v/react-redux.svg?style=flat-square)](https://www.npmjs.com/package/react-redux)
-[![npm downloads](https://img.shields.io/npm/dm/react-redux.svg?style=flat-square)](https://www.npmjs.com/package/react-redux)
-[![redux channel on slack](https://img.shields.io/badge/slack-redux@reactiflux-61DAFB.svg?style=flat-square)](http://www.reactiflux.com)
-
+##Forked from React-Redux. Note: This fork does not include any React requires in source code. You will have to manually add React.js file on your page using script tag.
 
 ## Installation
 
 React Redux requires **React 0.14 or later.**
 
 ```
-npm install --save react-redux
+npm install --save react-redux-noreact
 ```
 
 This assumes that you’re using [npm](http://npmjs.com/) package manager with a module bundler like [Webpack](http://webpack.github.io) or [Browserify](http://browserify.org/) to consume [CommonJS modules](http://webpack.github.io/docs/commonjs.html).
