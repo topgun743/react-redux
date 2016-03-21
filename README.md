@@ -1,4 +1,4 @@
-React Redux
+React Redux - No React
 =========================
 
 Official React bindings for [Redux](https://github.com/reactjs/redux).  

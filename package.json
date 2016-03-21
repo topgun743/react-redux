@@ -1,5 +1,5 @@
 {
-  "name": "react-redux",
+  "name": "react-redux-noreact",
   "version": "4.4.1",
   "description": "Official React bindings for Redux",
   "main": "./lib/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactjs/react-redux.git"
+    "url": "https://github.com/topgun743/react-redux-noreact.git"
   },
   "files": [
     "dist",
@@ -35,7 +35,7 @@
     "flux",
     "redux"
   ],
-  "author": "Dan Abramov <dan.abramov@me.com> (http://github.com/gaearon)",
+  "author": "Faisal Mushtaq <topgun743@gmail.com> (https://github.com/topgun743)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gaearon/react-redux/issues"

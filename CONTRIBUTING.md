@@ -12,7 +12,7 @@ Visit the [Issue tracker](https://github.com/reactjs/react-redux/issues) to find
 
 Fork, then clone the repo:
 ```
-git clone https://github.com/your-username/react-redux.git
+git clone https://github.com/your-username/react-redux-noreact.git
 ```
 
 ### Building
@@ -54,13 +54,9 @@ npm run lint
 
 Please open an issue with a proposal for a new feature or refactoring before starting on the work. We don't want you to waste your efforts on a pull request that we won't want to accept.
 
-###Style
-
-[reactjs](https://github.com/reactjs) is trying to keep a standard style across its various projects, which can be found over in [eslint-config-reactjs](https://github.com/reactjs/eslint-config-reactjs). If you have a style change proposal, it should first be proposed there. If accepted, we will be happy to accept a PR to implement it here.
-
 ## Submitting Changes
 
-* Open a new issue in the [Issue tracker](https://github.com/reactjs/react-redux/issues).
+* Open a new issue in the [Issue tracker](https://github.com/topgun743/react-redux-noreact/issues).
 * Fork the repo.
 * Create a new feature branch based off the `master` branch.
 * Make sure all tests pass and there are no linting errors.
